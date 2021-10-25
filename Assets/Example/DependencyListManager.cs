@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public abstract class AbstractDependencyListManager : MonoBehaviour
+public class DependencyListManager : AbstractDependencyListManager
 {
     void Start()
     {
